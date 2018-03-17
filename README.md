@@ -1,1 +1,4 @@
-# latihan_crud
+# SIMPLE CRUD with PHP
+
+Import latihan.sql
+
